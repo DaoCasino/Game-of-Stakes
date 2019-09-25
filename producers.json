@@ -6,6 +6,13 @@
             "url": "daobet.org",
             "public_ip": "127.0.0.1"
         },
+         {
+            "name": "example pull request",
+            "account_name": "daopullquest",
+            "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
+            "url": "daobet.org",
+            "public_ip": "127.0.0.1"
+        },
         {
             "name": "",
             "account_name": "",
