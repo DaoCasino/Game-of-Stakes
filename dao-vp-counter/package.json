@@ -1,0 +1,16 @@
+{
+  "name": "dao-vp-counter",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.1",
+    "@types/node": "^12.7.5",
+    "eosjs": "^20.0.0",
+    "express": "4.17.1",
+    "express-ws": "4.0.0",
+    "node-fetch": "2.6.0"
+  }
+}

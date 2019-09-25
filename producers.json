@@ -1,0 +1,17 @@
+{
+    "producers": [{
+            "name": "example",
+            "account_name": "examplenamee",
+            "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
+            "url": "daobet.org",
+            "public_ip": "127.0.0.1"
+        },
+        {
+            "name": "",
+            "account_name": "",
+            "openkey": "",
+            "url": "",
+            "public_ip": ""
+        }
+    ]
+}
