@@ -15,7 +15,9 @@ Fill in the information via **pull request** or just send it to [us](https://t.m
     "account_name": "examplenamee",
     "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
     "url": "daobet.org",
-    "public_ip": "127.0.0.1"
+    "p2p_endpoint": "127.0.0.1:9876",
+    "api_endpoint": "http://api.daobet.org",
+    "ssl_endpoint": "https://api.daobet.org"
 }
 ```
 ### name (optional)
@@ -64,7 +66,7 @@ Be sure to save the private key!
 
 your website url
 
-### public_ip (optional)
+### p2p_endpoint / api_endpoint / ssl_endpoint (optional)
 
 specify your ip so that other validators can connect to you.
 In this file you will find the ip of other validators and you can add them to your configuration.
