@@ -4,14 +4,27 @@
             "account_name": "examplenamee",
             "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
             "url": "daobet.org",
-            "public_ip": "127.0.0.1"
+            "p2p_endpoint": "127.0.0.1:9876",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "EOS Rio",
+            "account_name": "eosriobrazil",
+            "publickey": "EOS6XuY8KF22Zo9n8FXtQrcb3bKBySh59xx7knK2sMon1ZbGvmsui",
+            "url": "https://eosrio.io",
+            "p2p_endpoint": "daobet.eosrio.io:58102",
+            "api_endpoint": "http://daobet.eosrio.io",
+            "ssl_endpoint": "https://daobet.eosrio.io"
         },
         {
             "name": "",
             "account_name": "",
-            "openkey": "",
+            "publickey": "",
             "url": "",
-            "public_ip": ""
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
         }
     ]
 }
