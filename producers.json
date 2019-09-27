@@ -18,6 +18,15 @@
             "ssl_endpoint": "https://daobet.eosrio.io"
         },
         {
+            "name": "Everstake",
+            "account_name": "everstakedao",
+            "publickey": "EOS6ve5gCq1RE5JtiV71bSnVPbjcTSsg6EMmjuKR7J7eFfs9R4d4q",
+            "url": "everstake.one",
+            "p2p_endpoint": "dao.everstake.one:9876",
+            "api_endpoint": "http://dao-api.everstake.one",
+            "ssl_endpoint": "https://dao-api-ssl.everstake.one"
+        },
+        {
             "name": "",
             "account_name": "",
             "publickey": "",
