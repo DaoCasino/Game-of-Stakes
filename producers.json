@@ -1,39 +1,8 @@
 {
     "producers": [{
-            "name": "example",
-            "account_name": "examplenamee",
-            "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
-            "url": "daobet.org",
-            "p2p_endpoint": "127.0.0.1:9876",
-            "api_endpoint": "",
-            "ssl_endpoint": ""
-        },
-        {
-            "name": "EOS Rio",
-            "account_name": "eosriobrazil",
-            "publickey": "EOS6XuY8KF22Zo9n8FXtQrcb3bKBySh59xx7knK2sMon1ZbGvmsui",
-            "url": "https://eosrio.io",
-            "p2p_endpoint": "daobet.eosrio.io:58102",
-            "api_endpoint": "http://daobet.eosrio.io",
-            "ssl_endpoint": "https://daobet.eosrio.io"
-        },
-        {
-            "name": "Everstake",
-            "account_name": "everstakedao",
-            "publickey": "EOS6ve5gCq1RE5JtiV71bSnVPbjcTSsg6EMmjuKR7J7eFfs9R4d4q",
-            "url": "everstake.one",
-            "p2p_endpoint": "dao.everstake.one:9876",
-            "api_endpoint": "http://dao-api.everstake.one",
-            "ssl_endpoint": "https://dao-api-ssl.everstake.one"
-        },
-        {
-            "name": "",
-            "account_name": "",
-            "publickey": "",
-            "url": "",
-            "p2p_endpoint": "",
-            "api_endpoint": "",
-            "ssl_endpoint": ""
-        }
+    "name": "iris",
+    "account_name": "testhydohlvf",
+    "publickey": "EOS66AxDJwsUe3UC3JqfqxyHMQdZCsKUR9DhMMsBq29m7YGiMSraL"
+      }
     ]
 }
