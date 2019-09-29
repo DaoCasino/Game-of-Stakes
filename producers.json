@@ -45,6 +45,15 @@
             "ssl_endpoint": "https://daobet-api-ssl.kaiserlabs.at"
         },
         {
+            "name": "iris",
+            "account_name": "testhydohlvf",
+            "publickey": "EOS66AxDJwsUe3UC3JqfqxyHMQdZCsKUR9DhMMsBq29m7YGiMSraL",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
             "name": "",
             "account_name": "",
             "publickey": "",
