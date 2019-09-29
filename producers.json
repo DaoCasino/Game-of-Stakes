@@ -54,6 +54,15 @@
             "ssl_endpoint": ""
         },
         {
+            "name": "onundisputed",
+            "account_name": "onundisputed",
+            "publickey": "EOS7YWM8kSWZmBMLWsprs3ngEdDTGQCevGyM7yjqj91hq5eDG9HPX",
+            "url": "https://github.com/WOB2020",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
             "name": "",
             "account_name": "",
             "publickey": "",
