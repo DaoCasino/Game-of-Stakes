@@ -36,6 +36,15 @@
             "ssl_endpoint": "https://daobet-api.westaking.io:443"
         },
         {
+            "name": "Kaiserlabs",
+            "account_name": "kaiserlabs11",
+            "publickey": "EOS7Hs3HqjzWu2jTwCLbcBtFW4vTvWB2Js1zfcJR3iS5QPHNsY3Fd",
+            "url": "kaiserlabs.at",
+            "p2p_endpoint": "daobet.kaiserlabs.at:9876",
+            "api_endpoint": "http://daobet-api.kaiserlabs.at",
+            "ssl_endpoint": "https://daobet-api-ssl.kaiserlabs.at"
+        },
+        {
             "name": "",
             "account_name": "",
             "publickey": "",
