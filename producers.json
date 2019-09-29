@@ -32,8 +32,8 @@
             "publickey": "EOS8UGh5hw6YCFwv8WPFbmZ5eUDFBcc1FiDaJk6AhSmu8GrK9roeA",
             "url": "https://westaking.io",
             "p2p_endpoint": "daobet.westaking.io:10876",
-            "api_endpoint": "http://daobet.westaking.io:8888",
-            "ssl_endpoint": "https://daobet.westaking.io:443"
+            "api_endpoint": "http://daobet-api.westaking.io:8888",
+            "ssl_endpoint": "https://daobet-api.westaking.io:443"
         },
         {
             "name": "",
