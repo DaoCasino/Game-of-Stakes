@@ -63,6 +63,15 @@
             "ssl_endpoint": ""
         },
         {
+            "name": "dt",
+            "account_name": "dt.validator",
+            "publickey": "EOS825hweGeE4eCEXyqquW8F19i8SXyKzB4B8J5Qf1dAjuM7MHxsz",
+            "url": "",
+            "p2p_endpoint": "34.69.134.108:9876",
+            "api_endpoint": "http://api.daobet.org",
+            "ssl_endpoint": "https://api.daobet.org"
+        },           
+        {
             "name": "",
             "account_name": "",
             "publickey": "",
