@@ -212,9 +212,9 @@
             "account_name": "testd5flkpzq",
             "publickey": "EOS4ueFwARwY9sgiSnba41wXSxYmNTA2LTVNM6bTHQtarP2WuwCFx",
             "url": "https://yuma300.github.io/daobet/",
-            "p2p_endpoint": "127.0.0.1:9876",
-            "api_endpoint": "http://api.daovalidator.org",
-            "ssl_endpoint": "https://api.daovalidator.org"
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
         }
 
     ]
