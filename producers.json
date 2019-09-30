@@ -203,7 +203,7 @@
             "account_name": "daomintercap",
             "publickey": "EOS8gZZYES1VE27v6e8nHuhxekBk32yxSdWrAxrDQtvddpYBHJW1i",
             "url": "https://mintercap.com ",
-            "p2p_endpoint": "",
+            "p2p_endpoint": "daobet.mintercap.com:9876",
             "api_endpoint": "",
             "ssl_endpoint": ""
         }
