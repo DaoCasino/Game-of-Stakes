@@ -215,7 +215,15 @@
             "p2p_endpoint": "",
             "api_endpoint": "",
             "ssl_endpoint": ""
-        }
-                  
+        },
+        {
+            "name": "FelipeNode",
+            "account_name": "felvalidator",
+            "publickey": "EOS5Gjeme4asUDFYeAGH7adnQtFZtk7LsFeTKyDAUvzv15HMGFR6d",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+         }        
     ]
 }
