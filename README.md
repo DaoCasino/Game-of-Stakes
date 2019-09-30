@@ -93,3 +93,20 @@ Scripts and instructions for launching the node for participating in the Game of
 ### dao-vp-counter
 
 Service for counting of the `Validators Points` and for receiving the information about the network status.
+
+## Our validators
+
+Our team is also taking part in Game Of Stakes, but is not going to be laying claim to the prize.
+
+Should any of the following validators from the DAObet team be among the winners:
+
+- `daovalidator`
+- `davy42davy42`
+- `mixbytes1234`
+
+the prize will be distributed among the participants of the game at the discretion of the team.
+
+## Connection after the start of the game
+
+We reserve the right of entering the game after it starts.
+Validators joining after the start of the game will receive the same amount of game tokens as the remaining participants at the start of the game.
