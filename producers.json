@@ -206,6 +206,16 @@
             "p2p_endpoint": "daobet.mintercap.com:9876",
             "api_endpoint": "",
             "ssl_endpoint": ""
+        },
+        {
+            "name": "yuma300",
+            "account_name": "testd5flkpzq",
+            "publickey": "EOS4ueFwARwY9sgiSnba41wXSxYmNTA2LTVNM6bTHQtarP2WuwCFx",
+            "url": "https://yuma300.github.io/daobet/",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
         }
+                  
     ]
 }
