@@ -63,6 +63,15 @@
             "ssl_endpoint": ""
         },
         {
+            "name": "indimining",
+            "account_name": "indimining55",
+            "publickey": "EOS5e7D9QzUZUQbhXgGwJSr3Nhhqft34ytQKQcku72TpYNFmer8S6",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
             "name": "",
             "account_name": "",
             "publickey": "",
