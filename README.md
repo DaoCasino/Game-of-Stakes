@@ -16,8 +16,8 @@ Fill in the information via **pull request** or just send it to [us](https://t.m
     "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
     "url": "daobet.org",
     "p2p_endpoint": "127.0.0.1:9876",
-    "api_endpoint": "http://api.daobet.org",
-    "ssl_endpoint": "https://api.daobet.org"
+    "api_endpoint": "http://api.daovalidator.org",
+    "ssl_endpoint": "https://api.daovalidator.org"
 }
 ```
 ### name (optional)
