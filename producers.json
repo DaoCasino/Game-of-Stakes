@@ -64,13 +64,21 @@
         },
         {
             "name": "dt",
-            "account_name": "dt.validator",
+            "account_name": "dtvalidator1",
             "publickey": "EOS825hweGeE4eCEXyqquW8F19i8SXyKzB4B8J5Qf1dAjuM7MHxsz",
             "url": "",
             "p2p_endpoint": "34.69.134.108:9876",
-            "api_endpoint": "http://api.daobet.org",
-            "ssl_endpoint": "https://api.daobet.org"
+            "api_endpoint": "",
+            "ssl_endpoint": ""
         },           
+            "name": "indimining",
+            "account_name": "indimining55",
+            "publickey": "EOS5e7D9QzUZUQbhXgGwJSr3Nhhqft34ytQKQcku72TpYNFmer8S6",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
         {
             "name": "",
             "account_name": "",
