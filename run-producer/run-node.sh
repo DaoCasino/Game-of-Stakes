@@ -1,5 +1,5 @@
 NODE_PATH=$HOME/.dao-node
-NODE_IMAGE='daocasino/blockchain:gos-v1'
+NODE_IMAGE='daocasino/blockchain:v0.2.2'
 CONFIG_URL='https://explorer.daovalidator.com/config'
 
 read -p "Node data dir: $NODE_PATH, do you want change it? (y/n) " resp
