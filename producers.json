@@ -224,6 +224,15 @@
             "p2p_endpoint": "",
             "api_endpoint": "",
             "ssl_endpoint": ""
-        }
+         },
+         {
+            "name": "daobetglobal",
+            "account_name": "daobetglobal",
+            "publickey": "EOS4xBsN4vcC13DDAR1DYDYbnsEiy1DVJYf2wxex8jAomosd6Vazx",
+            "url": "nosite.com",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+           }     
     ]
 }
