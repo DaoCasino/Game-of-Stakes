@@ -233,6 +233,15 @@
             "p2p_endpoint": "",
             "api_endpoint": "",
             "ssl_endpoint": ""
-           }     
+           },
+           {
+            "name": "cosmostation",
+            "account_name": "cosmostation",
+            "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
+            "url": "https://www.cosmostation.io",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        }
     ]
 }
