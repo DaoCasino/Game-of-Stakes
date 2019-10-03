@@ -1,10 +1,84 @@
 {
     "producers": [{
-            "name": "example",
-            "account_name": "examplenamee",
-            "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
-            "url": "daobet.org",
-            "public_ip": "127.0.0.1"
+            "name": "EOS Rio",
+            "account_name": "eosriobrazil",
+            "publickey": "EOS6XuY8KF22Zo9n8FXtQrcb3bKBySh59xx7knK2sMon1ZbGvmsui",
+            "url": "https://eosrio.io",
+            "p2p_endpoint": "daobet.eosrio.io:58102",
+            "api_endpoint": "http://daobet.eosrio.io",
+            "ssl_endpoint": "https://daobet.eosrio.io"
+        },
+        {
+            "name": "Everstake",
+            "account_name": "everstakedao",
+            "publickey": "EOS6ve5gCq1RE5JtiV71bSnVPbjcTSsg6EMmjuKR7J7eFfs9R4d4q",
+            "url": "everstake.one",
+            "p2p_endpoint": "dao.everstake.one:9876",
+            "api_endpoint": "http://daoapi.everstake.one",
+            "ssl_endpoint": "https://daoapissl.everstake.one"
+        },
+        {
+            "name": "WeStaking",
+            "account_name": "westaking111",
+            "publickey": "EOS8UGh5hw6YCFwv8WPFbmZ5eUDFBcc1FiDaJk6AhSmu8GrK9roeA",
+            "url": "https://westaking.io",
+            "p2p_endpoint": "daobet.westaking.io:10876",
+            "api_endpoint": "http://daobetapi.westaking.io:8888",
+            "ssl_endpoint": "https://daobetapi.westaking.io:443"
+        },
+        {
+            "name": "Kaiserlabs",
+            "account_name": "kaiserlabs11",
+            "publickey": "EOS7Hs3HqjzWu2jTwCLbcBtFW4vTvWB2Js1zfcJR3iS5QPHNsY3Fd",
+            "url": "kaiserlabs.at",
+            "p2p_endpoint": "daobet.kaiserlabs.at:9876",
+            "api_endpoint": "http://daobetapi.kaiserlabs.at",
+            "ssl_endpoint": "https://daobetapissl.kaiserlabs.at"
+        },
+        {
+            "name": "iris",
+            "account_name": "testhydohlvf",
+            "publickey": "EOS66AxDJwsUe3UC3JqfqxyHMQdZCsKUR9DhMMsBq29m7YGiMSraL",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "onundisputed",
+            "account_name": "onundisputed",
+            "publickey": "EOS7YWM8kSWZmBMLWsprs3ngEdDTGQCevGyM7yjqj91hq5eDG9HPX",
+            "url": "https://github.com/WOB2020",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "dt",
+            "account_name": "dtvalidator1",
+            "publickey": "EOS825hweGeE4eCEXyqquW8F19i8SXyKzB4B8J5Qf1dAjuM7MHxsz",
+            "url": "",
+            "p2p_endpoint": "34.69.134.108:9876",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "indimining",
+            "account_name": "indimining55",
+            "publickey": "EOS5e7D9QzUZUQbhXgGwJSr3Nhhqft34ytQKQcku72TpYNFmer8S6",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "daovalidator",
+            "account_name": "daovalidator",
+            "publickey": "EOS7D1DFSa5m9uVfYmCU2oxBuGdao1hRMQVT3hArCeYgT8sMCLnef",
+            "url": "http://daovalidator.com",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
         },
          {
             "name": "example pull request",
@@ -14,11 +88,167 @@
             "public_ip": "127.0.0.1"
         },
         {
-            "name": "",
-            "account_name": "",
-            "openkey": "",
+            "name": "davy42",
+            "account_name": "davy42davy42",
+            "publickey": "EOS79KEfzZXMX1a5FCLRK3iubsQ1mBcDTNicHJvYB4EiESgeX7qts",
             "url": "",
-            "public_ip": ""
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "MixBytes",
+            "account_name": "mixbytes1234",
+            "publickey": "EOS6zQsL6c54d9bPEVxmXA9x27RHHrCwXY7FcqeoPzJ23VAuzkqgv",
+            "url": "https://mixbytes.io/",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "DAObet staker",
+            "account_name": "daobetstaker",
+            "publickey": "EOS7hZoDXNVzYFbgrNjh2PiWYbhDu7mZJShUSHCoX4V2L7R7ZKnWb",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "",
+            "account_name": "stakestake11",
+            "publickey": "EOS6KHeLK8xjviahVdWJuviJLJeZYP4e2iAZwDWpdaVBiAh8Fpks2",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+
+            "name": "",
+            "account_name": "devopsdevops",
+            "publickey": "EOS5s9P3KdFrrzYdV7SnmbtWEH5tP1XHUqmbzzqVrAw8EoTYCZHMZ",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "",
+            "account_name": "nakamotosato",
+            "publickey": "EOS6k9NZxkPkD5pjan7ahokiiXwLdmhTzoC9UMpxV9mpLMYdzvai8",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "",
+            "account_name": "indaowetrust",
+            "publickey": "EOS6VpMdyHkqmiYNkYRLSgXETY67xwq1DAvYZj7CpYY5JAGbq8psN",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "",
+            "account_name": "whalewhaledb",
+            "publickey": "EOS6zjn1aNJJiFy8hzyWJoceWd4kKUu85Jiex7Jabh8wxiz8HQ6nr",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "P2P VALIDATOR",
+            "account_name": "p2pvalidator",
+            "publickey": "EOS4wStdsiJ6trj8NFMkagUTDgtZcf369gaA8nn1Mo3KQ6LLen9Fy",
+            "url": "https://p2p.org/",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "superstaking",
+            "account_name": "superstaking",
+            "publickey": "EOS5kRFKvu44yyGTUqn7pKAuaQ1spCD4VGHf42cKMRV5G6i6bVcp9",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "",
+            "account_name": "valeadatorrr",
+            "publickey": "EOS5EBCG3m69zevfaKbDjiPpYgU2YfELqSvibRCeHwWf4rkDahzK9",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "Tony stake",
+            "account_name": "iamtonystake",
+            "publickey": "EOS5baMXpGaHCjGPyph2fJKFboQe1SBLZhNg7PHu6orzRvfr3xh2L",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "BET Hodler",
+            "account_name": "justhodlhodl",
+            "publickey": "EOS8H7DDB3u6SGJieKG1aTKNwDyjgwamfbJq27r9TD5QUWHuQWLQb",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "Minter Capital",
+            "account_name": "daomintercap",
+            "publickey": "EOS8gZZYES1VE27v6e8nHuhxekBk32yxSdWrAxrDQtvddpYBHJW1i",
+            "url": "https://mintercap.com ",
+            "p2p_endpoint": "daobet.mintercap.com:9876",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "yuma300",
+            "account_name": "testd5flkpzq",
+            "publickey": "EOS4ueFwARwY9sgiSnba41wXSxYmNTA2LTVNM6bTHQtarP2WuwCFx",
+            "url": "https://yuma300.github.io/daobet/",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+        },
+        {
+            "name": "FelipeNode",
+            "account_name": "felvalidator",
+            "publickey": "EOS5Gjeme4asUDFYeAGH7adnQtFZtk7LsFeTKyDAUvzv15HMGFR6d",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+         },
+         {
+            "name": "daobetglobal",
+            "account_name": "daobetglobal",
+            "publickey": "EOS4xBsN4vcC13DDAR1DYDYbnsEiy1DVJYf2wxex8jAomosd6Vazx",
+            "url": "nosite.com",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+           },
+           {
+            "name": "cosmostation",
+            "account_name": "cosmostation",
+            "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
+            "url": "https://www.cosmostation.io",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
         }
     ]
 }

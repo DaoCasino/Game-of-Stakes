@@ -15,7 +15,9 @@ Fill in the information via **pull request** or just send it to [us](https://t.m
     "account_name": "examplenamee",
     "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
     "url": "daobet.org",
-    "public_ip": "127.0.0.1"
+    "p2p_endpoint": "127.0.0.1:9876",
+    "api_endpoint": "http://api.daovalidator.org",
+    "ssl_endpoint": "https://api.daovalidator.org"
 }
 ```
 ### name (optional)
@@ -64,7 +66,7 @@ Be sure to save the private key!
 
 your website url
 
-### public_ip (optional)
+### p2p_endpoint / api_endpoint / ssl_endpoint (optional)
 
 specify your ip so that other validators can connect to you.
 In this file you will find the ip of other validators and you can add them to your configuration.
@@ -91,3 +93,20 @@ Scripts and instructions for launching the node for participating in the Game of
 ### dao-vp-counter
 
 Service for counting of the `Validators Points` and for receiving the information about the network status.
+
+## Our validators
+
+Our team is also taking part in Game Of Stakes, but is not going to be laying claim to the prize.
+
+Should any of the following validators from the DAObet team be among the winners:
+
+- `daovalidator`
+- `davy42davy42`
+- `mixbytes1234`
+
+the prize will be distributed among the participants of the game at the discretion of the team.
+
+## Connection after the start of the game
+
+We reserve the right of entering the game after it starts.
+Validators joining after the start of the game will receive the same amount of game tokens as the remaining participants at the start of the game.
