@@ -233,8 +233,8 @@
             "p2p_endpoint": "",
             "api_endpoint": "",
             "ssl_endpoint": ""
-           },
-           {
+          },
+          {
             "name": "cosmostation",
             "account_name": "cosmostation",
             "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
@@ -242,6 +242,14 @@
             "p2p_endpoint": "",
             "api_endpoint": "",
             "ssl_endpoint": ""
-        }
-    ]
+           },
+           {
+            "name": "jayvalidator", 
+            "account_name": "jayvalidator", 
+            "publickey": "EOS75jXxZXvXsFUtUtcDjpjdUeLTf6nfL9gZJHQXfHGkrbeSjTqiv", 
+            "url": "nill", "p2p_endpoint": "209.250.226.222:9876", 
+            "api_endpoint": "", 
+            "ssl_endpoint": ""
+           }
+       ]
 }
