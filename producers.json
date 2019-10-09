@@ -250,6 +250,15 @@
             "url": "nill", "p2p_endpoint": "209.250.226.222:9876", 
             "api_endpoint": "", 
             "ssl_endpoint": ""
-           }
+           },
+           {
+            "name": "blocksize",
+            "account_name": "blocksize555",
+            "publickey": "EOS6fzMVJsxXyXvuTcoRpkkFo2FtNT8jrAfmU3vxMsb8eWYG8Uz5S",
+            "url": "",
+            "p2p_endpoint": "",
+            "api_endpoint": "",
+            "ssl_endpoint": ""
+            }
        ]
 }
